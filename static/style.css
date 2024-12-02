@@ -1,0 +1,6 @@
+body {
+  background-color: #f8f9fa; /* Light gray */
+  /* Or use a background image */
+  /* background-image: url('path-to-image.jpg'); */
+  background-size: cover;
+}
